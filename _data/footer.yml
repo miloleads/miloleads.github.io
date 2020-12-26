@@ -9,7 +9,7 @@
     link: /contact/
 - links:
   - name: Login
-    link: /
+    link: app.miloleads.com
     new_window: true
   - name: Sign Up
     link: /
